@@ -1,4 +1,5 @@
 #Faragó Csaba, 2022-11-09
+
 print("Faragó Csaba, 2022-11-09")
 print("Csapadék mennyisége miliméterben:")
 actual = int(input("Aktuális heti csapadék: "))

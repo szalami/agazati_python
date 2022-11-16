@@ -1,0 +1,10 @@
+No:Rendszám:Szín:Márka:Ár
+1:lbc-343:piros:Audi:1850000
+2:kba-834:fehér:Ford:1270000
+3:jae-824:kék:Opel:1500000
+4:hdk-128:fehér:Ford:1250000
+5:jbm-572:kék:Opel:970000
+6:ndk-384:piros:Toyota:2350000
+7:fda-388:fehér:Opel:870000
+8:dma-834:fehér:Toyota:870000
+9:dnk-123:fehér:Opel:910000

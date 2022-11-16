@@ -1,0 +1,3 @@
+7:fda-388:fehér:Opel:870000
+8:dma-834:fehér:Toyota:870000
+9:dnk-123:fehér:Opel:910000
