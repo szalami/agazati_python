@@ -1,4 +1,4 @@
-# Faragó Csaba
+# Faragó Csaba                  1. A forráskód elején írja megjegyzésbe saját nevét, csoportját és az aktuális dátumot.
 # SZOFT I_1_E
 # 2022-11-17
 
